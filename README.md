@@ -1,7 +1,7 @@
 # AppTranslate
 ## Description
 
-AppTranslate is an example of an application using Retrofit 2
+AppTranslate is an example of an application using Retrofit 2 and the API used is https://detectlanguage.com/
 
 ## Requirements
 
